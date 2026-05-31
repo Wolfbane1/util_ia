@@ -50,7 +50,7 @@ def send_email(subject, body, to_email, log=None, cc=None, bcc=None):
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
         smtp_user = "automatizaciondevif@gmail.com"
-        smtp_password = "fwwfbuvufhooykkc"  # App Password de Gmail (2FA)
+        smtp_password = "xxxxxxx"  # App Password de Gmail (2FA)
 
         # Normalizar destinatarios
         to_list, to_header = _normalize_recipients(to_email)

@@ -15,7 +15,7 @@ from datetime import datetime, timedelta
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-YOUTUBE_API_KEY="AIzaSyA3v_GdaZfHSSrlRXyHphtmiJ7mrpSQLxU"
+YOUTUBE_API_KEY="xxxxxxx"
 
 tag="youtuber_manager"
 
